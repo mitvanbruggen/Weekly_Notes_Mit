@@ -1,4 +1,4 @@
-# Week 4: Algorithmic efficiency
+# Week 4: Algorithmic efficiency - Mit edits
 
 By now, we have a good idea of what it means for a solution to be an algorithm—it solves the problem, and it actually finishes if we start it on a problem. We haven’t worried about the efficiency of algorithms, though. There isn’t much difference between an algorithm that never finishes and one that finishes billions of years in the future, so perhaps that was an oversight. We should amend that now.
 
